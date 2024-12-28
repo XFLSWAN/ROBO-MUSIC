@@ -1,5 +1,5 @@
 from pyrogram import Client, filters
-import whois
+#import whois
 from SHUKLAMUSIC import app
 
 def get_domain_hosting_info(domain_name):
